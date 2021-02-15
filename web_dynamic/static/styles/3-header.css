@@ -4,13 +4,14 @@ header {
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
 }
+
 header .logo {
     background: url("../images/logo.png") no-repeat;
     left: 20px;
     height: 100%;
 }
-<<<<<<< HEAD
-header #api_status {
+
+#api_status {
     position: absolute;
     right: 30px;
     margin-top: -55px;
@@ -19,8 +20,7 @@ header #api_status {
     border-radius: 50%;
     background-color: #cccccc;
 }
-header #api_status.available {
+
+#api_status.available {
     background-color: #ff545f;
 }
-=======
->>>>>>> bf7753b8005bc7cd432df1c7307974b313e3addb
